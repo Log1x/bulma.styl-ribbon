@@ -1,0 +1,26 @@
+{
+  "name": "bulma.styl-ribbon",
+  "version": "1.0.0",
+  "homepage": "http://github.com/Log1x/bulma.styl-ribbon",
+  "author": "Brandon Nifong <brandon@tendency.me> (https://log1x.com)",
+  "contributors": [
+    "Wikiki (https://github.com/Wikiki)"
+  ],
+  "description": "Ribbon extension for Bulma.styl",
+  "main": "ribbon.styl",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Log1x/bulma.styl-ribbon.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "stylus",
+    "flexbox",
+    "responsive",
+    "framework"
+  ],
+  "bugs": {
+    "url": "https://github.com/Log1x/bulma.styl-ribbon/issues"
+  }
+}
